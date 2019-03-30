@@ -1,3 +1,9 @@
 iiiiii
 I add a new line in the dev1 branch
+<<<<<<< HEAD
 ok, I am ready for the collision.
+Create a new branch is quick and simple.
+=======
+ok, I am ready for the collision.
+Create a new branch is quick and simple.
+>>>>>>> featurel
